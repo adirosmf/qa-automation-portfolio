@@ -1,0 +1,11 @@
+# Java / Maven
+target/
+
+# Relatórios e artefatos de teste
+reports/
+screenshots/
+
+# Editores e sistema
+.idea/
+.vscode/
+Thumbs.db
